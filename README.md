@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi!+i'm+William.;I'm+full+stack+web+developer.;Proficient+in+Laravel+and+React.js.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i'm+William.;I'm+full+stack+web+developer.;Professional+in+React+and+Laravel.)](https://git.io/typing-svg)
