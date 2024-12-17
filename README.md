@@ -2,7 +2,9 @@
 
 <!--<h2 align="center">Hi 👋! My name is William and I'm a full stack web developer.</h2> -->
 <div align="center" style="text-align:center;">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Hi+i'm+William.;I'm+full+stack+web+developer.;Professional+in+React+and+Laravel.)](https://git.io/typing-svg)
+
 </div>
 
 
